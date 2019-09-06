@@ -1,2 +1,2 @@
 # my-jenkins
-111
+测试Jenkins自动构建
